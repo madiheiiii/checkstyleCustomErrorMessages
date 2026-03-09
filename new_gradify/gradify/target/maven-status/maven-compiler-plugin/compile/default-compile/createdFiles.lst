@@ -1,0 +1,9 @@
+com\gradify\checks\IndentationAuditListener.class
+com\gradify\checks\ViolationCollector$Violation.class
+com\gradify\checks\CurlyBracketCheck.class
+com\gradify\checks\TabIndentationCheck.class
+com\gradify\checks\ViolationCollector.class
+com\gradify\Main.class
+com\gradify\checks\NameConventionCheck.class
+com\gradify\checks\JavaDocCheck.class
+com\gradify\checks\TabIndentationCheck$IndentationViolation.class
